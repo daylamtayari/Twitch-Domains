@@ -11,7 +11,7 @@
 | Domain:  | Description: |
 | ------------- | ------------- |
 | `twitch.tv`  | Core Twitch domain  |
-| `usher.ttnw.net`  | [WIP]  |
+| `ttvnw.net`  | [WIP]  |
 | `d2e2de1etea730.cloudfront.net`  | Twitch VOD domain  |
 | `dqrpb9wgowsf5.cloudfront.net`  | Twitch VOD domain  |
 | `ds0h3roq6wcgc.cloudfront.net`  | Twitch VOD domain  |
@@ -27,7 +27,12 @@
 | `vod-metro.twitch.tv`  | Twitch VOD subdomain  |
 | `production.assets.clips.twitchcdn.net`  | [WIP but mainly clips]  |
 | `clips-media-assets2.twitch.tv`  | Twitch clips subdomain  |
-| `static-cdn.jtvnw.net`  | Static content (images)   |
+| `static-cdn.jtvnw.net`  | Static content (particularly images)   |
 | `gql.twitch.tv`  | Endpoint for Twitch's GQL API  |
 | `api.twitch.tv`  | REST API subdomain  |
 | `dev.twitch.tv`  | Developer portal  |
+| `dmca.twitch.tv`  | DMCA direct access portal  |
+| `video-weaver.[region].hls.ttvnw.net`  | Live stream HLS playlist  |
+| `usher.ttvnw.net`  | [WIP]  |
+| `video-edge-[alpha-numeric sequence].[region].abs.hls.ttvnw.net`  | Live stream segment files  |
+| `static.twitchcdn.net`  | Static content  |
