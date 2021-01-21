@@ -36,3 +36,20 @@
 | `usher.ttvnw.net`  | [WIP]  |
 | `video-edge-[alpha-numeric sequence].[region].abs.hls.ttvnw.net`  | Live stream segment files  |
 | `static.twitchcdn.net`  | Static content  |
+| `clips.twitch.tv`  | Clips subdomain  |
+| `api-gql-test.twitch.tv`  | [WIP]  |
+| `affiliate.twitch.tv`  | [WIP]  |
+| `app.twitch.tv`  | [WIP]  |
+| `badges.twitch.tv`  | [WIP]  |
+| `bits.twitch.tv`  | [WIP]  |
+| `blog.twitch.tv`  | [WIP]  |
+| `de.blog.twitch.tv`  | [WIP]  |
+| `fr.blog.twitch.tv`  | [WIP]  |
+| `it.blog.twitch.tv`  | [WIP]  |
+| `jp.blog.twitch.tv`  | [WIP]  |
+| `kr.blog.twitch.tv`  | [WIP]  |
+| `pt.blog.twitch.tv`  | [WIP]  |
+| `brand.twitch.tv`  | [WIP]  |
+| `irc-ws.chat.twitch.tv`  | [WIP]  |
+| `irc-ws-r.chat.twitch.tv`  | [WIP]  |
+| `chatdepot.twitch.tv`  | [WIP]  |
