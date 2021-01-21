@@ -8,7 +8,7 @@
 
 ## Domains:
 
-| Domain  | Description |
+| Domain:  | Description: |
 | ------------- | ------------- |
 | `twitch.tv`  | Core Twitch domain  |
 | `usher.ttnw.net`  | [WIP]  |
@@ -20,7 +20,7 @@
 
 ## Subdomains:
 
-| Subomain  | Description |
+| Subomain:  | Description: |
 | ------------- | ------------- |
 | `vod-secure.twitch.tv`  | Twitch VOD domain  |
 | `vod-metro.twitch.tv`  | Twitch VOD domain  |
