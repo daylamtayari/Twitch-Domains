@@ -4,7 +4,7 @@
 **This list also includes subdomains that are used for a particular service.**  
 (Cloudfront subdomains are considered as a domain not subdomain).
 
-**If there is a domain that Twitch uses that is not listed here, please feel free to create an issue listing the domain and I will add it to the list.**
+**If there is a domain or subdomain that Twitch uses that is not listed here, please feel free to create an issue listing the domain and I will add it to the list.**
 
 ## Domains:
 
