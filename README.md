@@ -17,6 +17,7 @@
 | `ds0h3roq6wcgc.cloudfront.net`  | Twitch VOD domain  |
 | `d2nvs31859zcd8.cloudfront.net`  | Twitch VOD domain  |
 | `twitchcdn.net`  | [WIP]  |
+| `jtvnw.net`  | [WIP]  |
 
 ## Subdomains:
 
@@ -26,3 +27,7 @@
 | `vod-metro.twitch.tv`  | Twitch VOD subdomain  |
 | `production.assets.clips.twitchcdn.net`  | [WIP but mainly clips]  |
 | `clips-media-assets2.twitch.tv`  | Twitch clips subdomain  |
+| `static-cdn.jtvnw.net`  | Static content (images)   |
+| `gql.twitch.tv`  | Endpoint for Twitch's GQL API  |
+| `api.twitch.tv`  | REST API subdomain  |
+| `dev.twitch.tv`  | Developer portal  |
