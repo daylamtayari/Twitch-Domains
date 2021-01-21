@@ -22,6 +22,7 @@
 
 | Subomain:  | Description: |
 | ------------- | ------------- |
-| `vod-secure.twitch.tv`  | Twitch VOD domain  |
-| `vod-metro.twitch.tv`  | Twitch VOD domain  |
+| `vod-secure.twitch.tv`  | Twitch VOD subdomain  |
+| `vod-metro.twitch.tv`  | Twitch VOD subdomain  |
 | `production.assets.clips.twitchcdn.net`  | [WIP but mainly clips]  |
+| `clips-media-assets2.twitch.tv`  | Twitch clips subdomain  |
